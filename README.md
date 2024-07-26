@@ -3,7 +3,7 @@
 `NRCustomLoaders` is a Swift package providing a suite of customizable loading indicators and progress bars for SwiftUI applications. This package includes various loader types such as linear, circular, pulsing, and dot-based loaders to enhance user experience during loading states.
 
 # Preview
-![](https://github.com/niravramani72/)
+![](https://github.com/niravramani72/NRCustomLoaders/blob/main/preview.gif)
 
 ## Components
 
